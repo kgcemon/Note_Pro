@@ -1,6 +1,8 @@
 # notepro
 
 A new Flutter project.
+![Screenshot 2023-12-27 162811](https://github.com/kgcemon/Note_Pro/assets/146537184/b40c332c-8cae-478e-a595-500c2930533c)
+![Screenshot 2023-12-27 162842](https://github.com/kgcemon/Note_Pro/assets/146537184/4d415b9f-7d96-422d-869d-65e4a9772b82)
 
 ## Getting Started
 
